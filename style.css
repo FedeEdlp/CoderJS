@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "gabarito";
+    src: url(./font/gabarito.ttf);
+}
+
+h1{
+    font-family: "gabarito";
+    text-align: center;
+}
+
+body{
+    background-image: url(./img/fondobody.png);
+    align-items: center;
+}
